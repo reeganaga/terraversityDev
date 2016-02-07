@@ -84,7 +84,7 @@
 
                                     <div class="menu-block-right bg-menu-right tahunmatematikaDasar ">
                                       <div class="row">
-                                          <div class="col-md-6 scroll-menu">
+                                          <div class="col-md-6">
                                               <ul class="tahunmatematikaDasar" >
                                                 <li >Berdasarkan Tahun</li>
                                                 <li class="divider"></li>
@@ -325,7 +325,7 @@
 
                                     <div class="menu-block-right bg-menu-right tahunmatematikaDasar ">
                                       <div class="row">
-                                          <div class="col-md-6 scroll-menu">
+                                          <div class="col-md-6">
                                               <ul class="tahunmatematikaDasar" >
                                                 <li >Berdasarkan Tahun</li>
                                                 <li class="divider"></li>
