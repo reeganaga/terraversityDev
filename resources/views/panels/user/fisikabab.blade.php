@@ -2,6 +2,7 @@
 
 @section('head')
 <link rel="stylesheet" href="/assets/css/konten/fullpage.css" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="/assets/css/konten/fisika.css" media="screen" title="no title" charset="utf-8">
 @stop
 
 @section('content')
@@ -963,34 +964,6 @@
                     <div  id="usahadanenergibab6">
                       <iframe width="420" height="315" src="https://www.youtube.com/embed/DAha3_7CXA4" frameborder="0" allowfullscreen></iframe>
                     </div>
-                    {{-- <div  id="usahadanenergibab7">
-                    </div>
-                    <div  id="usahadanenergibab8">
-                    </div>
-                    <div  id="usahadanenergibab9">
-                    </div>
-                    <div  id="usahadanenergibab10">
-                    </div>
-                    <div  id="usahadanenergibab11">
-                    </div>
-                    <div  id="usahadanenergibab12">
-                    </div>
-                    <div  id="usahadanenergibab13">
-                    </div>
-                    <div  id="usahadanenergibab14">
-                    </div>
-                    <div  id="usahadanenergibab15">
-                    </div>
-                    <div  id="usahadanenergibab16">
-                    </div>
-                    <div  id="usahadanenergibab17">
-                    </div>
-                    <div  id="usahadanenergibab18">
-                    </div>
-                    <div  id="usahadanenergibab19">
-                    </div>
-                    <div  id="usahadanenergibab20">
-                    </div> --}}
                 </div>
             </div>
             <div class="row">
@@ -1005,7 +978,7 @@
                         <a id="usahadanenergitombolbab4" href="#">bab 4</a>
                         <a id="usahadanenergitombolbab5" href="#">bab 5</a>
                         <a id="usahadanenergitombolbab6" href="#">bab 6</a>
-                      
+
                         </div>
                     </div>
                 </div>
@@ -1033,6 +1006,7 @@
 </div>
 @section('footer')
   <script type="text/javascript" src="/assets/js/konten/fullpage.js"></script>
+  <script type="text/javascript" src="/assets/js/konten/fisika.js"></script>
 @stop
 
     @stop
